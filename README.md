@@ -3,15 +3,3 @@ Seyahat Kitabım adlı bu uygulamamda map üzerinde istediğiniz bir yeri map'e 
 
 I wrote Travel Book. This app provides, add a marker when we press 1 or 2 second on the Map. Then we can see saved last locations , on the Main Activity. So , I am sure this app can be very beneficial to the Tourists.
 
-**Bu projede kullanılan kütüphaneler**
-
-- [Retrofit](https://square.github.io/retrofit/)
-- [MVVM](https://developer.android.com/topic/libraries/architecture/viewmodel)
-- [Coroutines](https://developer.android.com/kotlin/coroutines)
-- [Navigations](https://developer.android.com/guide/navigation)
-- [Room](https://developer.android.com/training/data-storage/room)
-- [Fragments](https://developer.android.com/guide/fragments)
-- [Glide](https://github.com/bumptech/glide)
-- [RxJava](https://github.com/ReactiveX/RxJava)
-- [Shared Preferences](https://developer.android.com/reference/android/content/SharedPreferences)
-
